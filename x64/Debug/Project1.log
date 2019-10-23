@@ -1,0 +1,27 @@
+﻿  bmp_mosaic_openmp.cpp
+c1xx : warning C4199: two-phase name lookup is not supported for C++/CLI, C++/CX, or OpenMP; use /Zc:twoPhase-
+d:\code\mosaic\project1\mosaic.h(18): warning C4091: 'typedef ': ignored on left of 'mosaic_metadata' when no variable is declared
+d:\code\mosaic\project1\mosaic.h(27): warning C4091: 'typedef ': ignored on left of 'component_metadata' when no variable is declared
+d:\code\mosaic\project1\mosaic.h(38): warning C4091: 'typedef ': ignored on left of 'mosaic_tile' when no variable is declared
+d:\code\mosaic\project1\mosaic.h(44): warning C4091: 'typedef ': ignored on left of 'mosaic_map' when no variable is declared
+d:\code\mosaic\project1\dirent.h(1130): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\code\mosaic\project1\dirent.h(1215): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\code\mosaic\project1\bmp_mosaic_openmp.cpp(110): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\code\mosaic\project1\bmp_mosaic_openmp.cpp(261): warning C4267: 'argument': conversion from 'size_t' to 'const unsigned int', possible loss of data
+d:\code\mosaic\project1\bmp_mosaic_openmp.cpp(289): warning C4267: 'argument': conversion from 'size_t' to 'const unsigned int', possible loss of data
+d:\code\mosaic\project1\bmp_mosaic_openmp.cpp(293): warning C4244: '+=': conversion from 'float' to 'unsigned char', possible loss of data
+d:\code\mosaic\project1\bmp_mosaic_openmp.cpp(295): warning C4244: '+=': conversion from 'float' to 'unsigned char', possible loss of data
+d:\code\mosaic\project1\bmp_mosaic_openmp.cpp(297): warning C4244: '+=': conversion from 'float' to 'unsigned char', possible loss of data
+d:\code\mosaic\project1\bmp_mosaic_openmp.cpp(299): warning C4267: 'argument': conversion from 'size_t' to 'const unsigned int', possible loss of data
+d:\code\mosaic\project1\bmp_mosaic_openmp.cpp(305): warning C4267: 'argument': conversion from 'size_t' to 'const unsigned int', possible loss of data
+d:\code\mosaic\project1\bmp_mosaic_openmp.cpp(476): warning C4018: '<': signed/unsigned mismatch
+d:\code\mosaic\project1\bmp_mosaic_openmp.cpp(478): warning C4267: 'argument': conversion from 'size_t' to 'const unsigned int', possible loss of data
+d:\code\mosaic\project1\bmp_mosaic_openmp.cpp(489): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+d:\code\mosaic\project1\bmp_mosaic_openmp.cpp(490): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+d:\code\mosaic\project1\bmp_mosaic_openmp.cpp(491): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+d:\code\mosaic\project1\bmp_mosaic_openmp.cpp(578): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+d:\code\mosaic\project1\bmp_mosaic_openmp.cpp(737): warning C4267: 'argument': conversion from 'size_t' to 'const unsigned int', possible loss of data
+d:\code\mosaic\project1\bmp_mosaic_openmp.cpp(748): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+d:\code\mosaic\project1\bmp_mosaic_openmp.cpp(749): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+d:\code\mosaic\project1\bmp_mosaic_openmp.cpp(750): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+  Project1.vcxproj -> D:\Code\Mosaic\x64\Debug\Project1.exe
